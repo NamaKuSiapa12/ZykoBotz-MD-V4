@@ -55,26 +55,26 @@ global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
+['6285854751847', 'Aril Nove', true],
 ['62XXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62XXX' //pasang no bot lo 
-global.nomorown = '62XXX' //pasang no own lo
-global.nomorown1 = '62XXX'
-global.nomorown2 = '62XXX'
-global.nomorwa = '0'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nomorbot = '18623082180' //pasang no bot lo 
+global.nomorown = '6285854751847' //pasang no own lo
+global.nomorown1 = '6285854751847'
+global.nomorown2 = '6285854751847'
+global.nomorwa = '6285854751847'
+global.nameown = '𝐴𝑅𝐼𝐿-𝑀𝐷'
+global.gcname = '𝐴𝑅𝑁𝑂𝑉-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
+global.author = 'Created By 𝐴𝑅𝐼𝐿-𝑀𝐷'
+global.namabot = '𝗔𝗿𝗻𝗼𝘃𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.namebot = '𝗔𝗿𝗻𝗼𝘃𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.packname2 = '𝐴𝑅𝑁𝑂𝑉-𝑀𝐷'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown1= '𝐴𝑅𝐼𝐿-𝑀𝐷'
 global.nameown2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
 
 /*============== STAFF ==============*/
@@ -82,16 +82,16 @@ global.nameown2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.wm2 = '𝑍𝑌𝐾𝑂-𝑀𝐷 '
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐴𝑅𝑁𝑂𝑉-𝑀𝐷'
+global.wm2 = '𝐴𝑅𝑁𝐾𝑉-𝑀𝐷 '
 global.packname = wm
 global.watermark = wm
-global.titlebot = `𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.titlebot = `𝐴𝑅𝑁𝑂𝑉-𝑀𝐷`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.stickauth = `© 𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.stickpack = '𝐴𝑅𝑁𝑂𝑉𝐵𝑂𝑇𝑍-𝑀𝐷'
+global.stickauth = `© 𝐴𝑅𝑁𝑂𝑉-𝑀𝐷`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
